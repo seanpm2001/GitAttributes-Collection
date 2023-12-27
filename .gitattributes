@@ -93,14 +93,6 @@
 *.svg linguist-detectable=false
 *.svg linguist-documentation=false
 *.svg linguist-language=SVG
-# Git Configuration files
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
-*.gitattributes linguist-detectable=false
-*.gitattributes linguist-documentation=false
-*.gitignore linguist-detectable=false
-*.gitignore linguist-documentation=false
-*.editorconfig linguist-detectable=false
-*.editorconfig linguist-documentation=false
 # Plain Text document
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.txt linguist-detectable=false
@@ -171,7 +163,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Tuesday, December 26th at 10:18 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 6 (2023, Tuesday, December 26th at 10:20 pm PST)
+# Line count (including blank lines and compiler line): 170
 
 # End of script
